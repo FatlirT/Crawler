@@ -6,7 +6,7 @@ TODO:
 - Improve Crawler Class' structure and interface.
 - Add support for other  input streams.
 - Use multi-threading.
-- Outsmart Crawler prevention measures such as Google CAPTCHA i.e. cycle user agents, add delay between connection requests, cycle proxies.
+- Outsmart Crawler prevention measures such as Google CAPTCHA by cycling user agents, adding delay between connection requests, cycling proxies.
 
 
 Possible Future Features:
