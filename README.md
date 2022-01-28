@@ -20,3 +20,9 @@ Possible Future Features:
 - Make use of website APIs to get prices instead.
 - Train AI to find correct prices.
 
+
+Dependencies:
+
+- JSoup for downloading and parsing web-pages
+- ApachePOI for writing to Word documents
+
